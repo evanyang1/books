@@ -1,0 +1,13 @@
+$\mathbf{Definition.} The \ \mathbf{ratio}$ of two numbers a and b is the relationship saying how many times
+the first number contains the second. More specifically, if the ratio of a and b are c:d (c and d are numbers)
+then $a = \frac{c}{d}b$. Ideally, ratios should be written as c:d, where c and d are both integers. (Bonus points if gcd(c,d) = 1.)
+
+Ex: There are 30 students in a 6th grade class, of whom 18 are girls. What is the ratio of girls and boys in the class?
+Solution: There are 18 girls, and there are 30 - 18 = 12 boys. 18/12 can be simplified to 3/2 (divide numerator and denominator by 6).
+Because the number of girls is (3/2) times the number of boys, the ratio of the number of girls and boys is 3:2.
+
+Ex: Are the ratios 3:5 and 5:3 the same? Why or why not?
+Solution: No, because $\frac{3}{5} \neq \frac{5}{3}$. Specifically $\frac{5}{3} - \frac{3}{5} = \frac{25 - 9}{15} = \frac{16}{15} > 0 $.
+
+Ex: Are the ratios 2:4 and 7:14 the same?
+Solution: Yes because $\frac{2}{4} = \frac{7}{14}$.
